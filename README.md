@@ -180,4 +180,4 @@ class Book(BaseModel):
 
 **Amrita Sinha**  
 📧 amrittasinha45@gmail.com  
-🔗 GitHub: [github.com/amritasinha](https://github.com/amritasinha)
+🔗 GitHub: [github.com/amritasinha](https://github.com/AmritaSinha8976)
